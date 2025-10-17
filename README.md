@@ -6,8 +6,16 @@
 ---
 
 ### 🧠 Tech Stack  
-💡 **Languages:** HTML, CSS, JavaScript, Python, C  
-⚛️ **Frameworks & Libraries:** React, Next.js  
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
+
+#### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
 📊 **Interests:** Machine Learning, Data Analysis  
 
 ---
