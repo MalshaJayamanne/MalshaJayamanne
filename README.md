@@ -8,7 +8,7 @@
 ### 🧠 Tech Stack  
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
 </p>
 
 #### 🌐 Web Development
