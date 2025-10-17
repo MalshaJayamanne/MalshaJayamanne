@@ -26,5 +26,4 @@ To become a versatile software engineer capable of blending **creativity**, **an
 
 ### 📊 GitHub Stats  
 ![Malsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=malshajayamanne&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malshajayamanne&layout=compact&theme=radical)
 
