@@ -97,10 +97,9 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 
 ### 🍔 Food Ordering System
 - MERN stack application
-- JWT authentication with cookies
-- Redux state management
+- JWT authentication 
+- User management
 - Secure backend architecture
-- Multi-factor authentication support
 
 ### 🧠 Student Performance Prediction System
 - Machine learning prediction model
@@ -114,10 +113,9 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 - Machine learning integration
 - Responsive healthcare UI
 
-### 👕 Fashion Classification CNN
+### 👕 Classification CNN
 - Deep learning image classification
 - Fashion-MNIST dataset
-- TensorFlow & Keras implementation
 - Interactive prediction interface
 
 ---
@@ -125,10 +123,6 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 ## 🏗️ Featured Project Areas
 
 ### Software Engineering
-- Software architecture
-- Software reliability engineering
-- Secure application development
-- Middleware and distributed systems
 
 ### AI & Machine Learning
 - Predictive analytics
@@ -140,7 +134,7 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 - MERN stack applications
 - REST API development
 - Authentication systems
-- Responsive frontend engineering
+- Responsive frontend 
 
 ---
 
@@ -195,7 +189,7 @@ To become a versatile software engineer capable of blending **creativity**, **an
 - Secure Authentication Systems
 - Enterprise Software Development
 - AI-powered Web Applications
-- Cybersecurity & System Security
+- UI/UX Design
 
 ---
 
