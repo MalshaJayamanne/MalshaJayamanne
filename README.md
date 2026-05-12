@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=210&section=header&text=Malsha%20Jayamanne&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=210&section=header&text=Malsha%20Jayamanne&fontSize=44&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Modern+Software+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Systems" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 ## 👋 Hi there, I'm **Malsha Jayamanne**
 
 🎓 **Software Engineering Undergraduate**  
-💻 Passionate about building scalable, efficient, and user-focused digital solutions  
+💻 Passionate about building scalable, efficient, and user-focused digital solutions
 
 I am a **Software Engineering undergraduate** and **Full-Stack Developer** passionate about building **modern web applications, AI-powered systems, scalable backend architectures, and secure software solutions**.
 
@@ -79,11 +79,11 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-📊 **Interests:** Machine Learning, Data Analysis, Full-Stack Development  
+📊 **Interests:** Machine Learning, Data Analysis, Full-Stack Development
 
 ---
 
-## 🚀 What I’m Focusing On
+## 🚀 What I'm Focusing On
 
 - Enhancing my skills in **modern web technologies**
 - Exploring **ML-driven applications** for intelligent decision-making
@@ -157,10 +157,10 @@ To become a versatile software engineer capable of blending **creativity**, **an
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MalshaJayamanne&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MalshaJayamanne&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshaJayamanne&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshaJayamanne&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
     </td>
   </tr>
   <tr>
@@ -226,32 +226,6 @@ To become a versatile software engineer capable of blending **creativity**, **an
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=130&section=footer" alt="Footer Banner" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MalshaJayamanne/MalshaJayamanne/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MalshaJayamanne/MalshaJayamanne/output/github-contribution-grid-snake.svg"
-  />
-  
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/MalshaJayamanne/MalshaJayamanne/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
-  
-</picture>
 
 </div>
 
