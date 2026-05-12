@@ -37,7 +37,6 @@ I enjoy combining **software engineering concepts** with **real-world developmen
 - Secure authentication systems
 - REST API development
 - Scalable backend architectures
-- Cybersecurity and intelligent systems
 
 ---
 
