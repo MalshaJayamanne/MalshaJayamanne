@@ -99,7 +99,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ## ☁️ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,azure" />
+<img src="https://skillicons.dev/icons?i=docker,github,linux,azure" />
 </p>
 
 ---
