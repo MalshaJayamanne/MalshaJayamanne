@@ -68,7 +68,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ## 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,superbase" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 ## 📊 Data Analytics Tools
 - Power BI  
 - Excel (Advanced Data Analysis)  
-- Google Colab  
+- Google  
 - Data Cleaning & Preprocessing  
 - Data Visualization  
 
@@ -125,25 +125,20 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ## 🚀 Featured Projects
 
-### 🎓 Student Success Analytics Platform
-- Dropout prediction system  
-- Machine Learning + Analytics  
-- MERN + Python integration  
-
----
-
-### 💳 Fraud Detection System
-- XGBoost ML model  
-- FastAPI backend  
-- Real-time prediction  
-
----
-
-### 🍔 Food Ordering System
+### 🍔 Slice Hub - Food Ordering System
 - MERN Stack  
 - JWT Authentication  
 - Admin dashboard  
-- REST API system  
+- REST API system
+- customer & seller interactions
+
+---
+
+### ✈️ Horizon Travel System (Project)
+- Travel organize and management system
+- User-friendly travel exploration 
+- Destination browsing and filtering system
+- Responsive full-stack web application
 
 ---
 
@@ -160,6 +155,21 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 - Semantic search  
 
 ---
+
+### 🎓 Student Success Analytics Platform
+- Dropout prediction system  
+- Machine Learning + Analytics  
+- MERN + Python integration  
+
+---
+
+### 💳 Fraud Detection System
+- XGBoost ML model  
+- FastAPI backend  
+- Real-time prediction  
+
+---
+
 
 ## 📊 GitHub Stats
 
