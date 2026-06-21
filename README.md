@@ -132,7 +132,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ---
 
-### ✈️ Horizon Travel System (Project)
+### ✈️ Horizon Travel System
 - Travel organize and management system
 - User-friendly travel exploration 
 - Destination browsing and filtering system
