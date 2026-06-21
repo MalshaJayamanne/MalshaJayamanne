@@ -35,8 +35,6 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 - Data Analytics (DA)
 - Machine Learning (ML)
 - Full Stack Development
-- Backend Engineering
-- API Development
 - System Design Basics
 
 ---
