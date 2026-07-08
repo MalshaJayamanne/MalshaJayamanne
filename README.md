@@ -20,10 +20,10 @@
 
 ## 👋 About Me
 
-🎓 Software Engineering Undergraduate  
-💻 Full Stack Developer  
-📊 Data Analytics Enthusiast  
-🤖 Machine Learning Practitioner  
+🎓 Software Engineering Undergraduate
+💻 Full Stack Developer
+📊 Data Analytics Enthusiast
+🤖 Machine Learning Practitioner
 
 I build real-world systems using **Software Engineering, Data Analytics, and Machine Learning**.
 
@@ -66,7 +66,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ## 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,superbase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,supabase" />
 </p>
 
 ---
@@ -77,23 +77,22 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 </p>
 
 ### ML / DA Libraries
-- Pandas  
-- NumPy  
-- Scikit-Learn  
-- Matplotlib  
-- Seaborn  
-- OpenCV  
-- XGBoost  
-- Jupyter Notebook  
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- OpenCV
+- XGBoost
+- Jupyter Notebook
 
 ---
 
 ## 📊 Data Analytics Tools
-- Power BI  
-- Excel (Advanced Data Analysis)  
-- Google  
-- Data Cleaning & Preprocessing  
-- Data Visualization  
+- Power BI
+- Excel (Advanced Data Analysis)
+- Data Cleaning & Preprocessing
+- Data Visualization
 
 ---
 
@@ -106,68 +105,67 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ## 🧰 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,gitlab" />
 </p>
 
 ---
 
 ## 🔐 Authentication & Architecture
-- JWT Authentication  
-- OAuth Basics  
-- REST API Architecture  
-- MVC Pattern  
-- Microservices Basics  
-- Role-Based Access Control (RBAC)  
+- JWT Authentication
+- OAuth Basics
+- REST API Architecture
+- MVC Pattern
+- Microservices Basics
+- Role-Based Access Control (RBAC)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍔 Slice Hub - Food Ordering System
-- MERN Stack  
-- JWT Authentication  
-- Admin dashboard  
+### 🍔 Slice Hub — Food Ordering System
+- MERN Stack
+- JWT Authentication
+- Admin dashboard
 - REST API system
-- customer & seller interactions
+- Customer & seller interactions
 
 ---
 
 ### ✈️ Horizon Travel System
-- Travel organize and management system
-- User-friendly travel exploration 
+- Travel organization and management system
+- User-friendly travel exploration
 - Destination browsing and filtering system
 - Responsive full-stack web application
 
 ---
 
 ### 🏥 Healthcare Prediction System
-- Stroke prediction model  
-- Data analytics pipeline  
-- ML classification  
+- Stroke prediction model
+- Data analytics pipeline
+- ML classification
 
 ---
 
 ### 🤖 RAG Chatbot System
-- LLM-based assistant  
-- Document retrieval system  
-- Semantic search  
+- LLM-based assistant
+- Document retrieval system
+- Semantic search
 
 ---
 
 ### 🎓 Student Success Analytics Platform
-- Dropout prediction system  
-- Machine Learning + Analytics  
-- MERN + Python integration  
+- Dropout prediction system
+- Machine Learning + Analytics
+- MERN + Python integration
 
 ---
 
 ### 💳 Fraud Detection System
-- XGBoost ML model  
-- FastAPI backend  
-- Real-time prediction  
+- XGBoost ML model
+- FastAPI backend
+- Real-time prediction
 
 ---
-
 
 ## 📊 GitHub Stats
 
