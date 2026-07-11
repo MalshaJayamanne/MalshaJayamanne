@@ -195,10 +195,14 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 </div>
 
-## Top Languages
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MalshaJayamanne_count=4)
+## 🌐 Top Languages
 
----
+<div align="center">
+  
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MalshaJayamanne&count=4)
+
+</div>
+
 
 ## 📫 Connect With Me
 
