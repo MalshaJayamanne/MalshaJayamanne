@@ -200,7 +200,6 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 <div align="center">
   
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MalshaJayamanne&count=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalshaJayamanne&layout=compact&theme=tokyonight)
 
 </div>
 
