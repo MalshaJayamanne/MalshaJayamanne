@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Data+Analytics+Explorer;Machine+Learning+Enthusiast;Backend+%26+API+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+Intelligent+Software+Systems"/>
 
 <br>
 
@@ -18,156 +18,164 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-🎓 Software Engineering Undergraduate
-💻 Full Stack Developer
-📊 Data Analytics Enthusiast
-🤖 Machine Learning Practitioner
+🎓 **Software Engineering Undergraduate** at the **University of Sri Jayewardenepura**
 
-I build real-world systems using **Software Engineering, Data Analytics, and Machine Learning**.
+I enjoy building intelligent software solutions by combining **Software Engineering**, **Machine Learning**, **Data Analytics**, and **Full Stack Development**.
 
----
+I'm currently interested in:
 
-## 🔬 Focus Areas
+- 🤖 Machine Learning & Explainable AI
+- 📊 Data Analytics & Visualization
+- 💻 Full Stack Web Development
+- 🏗️ Scalable Software Systems
 
-- Software Engineering (SE)
-- Data Analytics (DA)
-- Machine Learning (ML)
-- Full Stack Development
-- System Design Basics
+🌐 **Portfolio:** https://malshajayamanne.dev
 
 ---
 
-# 🛠️ Complete Tech Stack
-
----
+# 🛠 Tech Stack
 
 ## 💻 Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,php" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css" />
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,redux,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
 ---
 
-## ⚙️ Backend Development
+## ⚙ Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
 ---
 
-## 🗄️ Databases
+## 🗄 Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 </p>
 
 ---
 
-## 🤖 Machine Learning & AI
+## 🤖 AI / Machine Learning
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
 </p>
 
-### ML / DA Libraries
+**Libraries**
+
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- OpenCV
 - XGBoost
-- Jupyter Notebook
+- SHAP
+- Matplotlib
+- Plotly
 
 ---
 
-## 📊 Data Analytics Tools
+## 📊 Data Analytics
+
 - Power BI
-- Excel (Advanced Data Analysis)
-- Data Cleaning & Preprocessing
+- Excel
+- Data Cleaning
 - Data Visualization
+- Exploratory Data Analysis (EDA)
 
 ---
 
-## ☁️ DevOps & Cloud
+## ☁ Deployment & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=docker,github,linux,azure" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
 </p>
 
 ---
 
-## 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,gitlab" />
-</p>
+## 🏗 Software Engineering
 
----
-
-## 🔐 Authentication & Architecture
+- REST APIs
 - JWT Authentication
-- OAuth Basics
-- REST API Architecture
-- MVC Pattern
-- Microservices Basics
+- NextAuth
+- Prisma ORM
+- Mongoose ODM
 - Role-Based Access Control (RBAC)
+- MVC Architecture
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍔 Slice Hub — Food Ordering System
-- MERN Stack
-- JWT Authentication
-- Admin dashboard
-- REST API system
-- Customer & seller interactions
+### 🎓 Intelligent Student Success Analytics Platform *(FYP)*
 
----
+AI-powered educational analytics platform for predicting student success using Machine Learning and Explainable AI.
 
-### ✈️ Horizon Travel System
-- Travel organization and management system
-- User-friendly travel exploration
-- Destination browsing and filtering system
-- Responsive full-stack web application
+**Tech:** React • Node.js • Python • PostgreSQL • XGBoost • SHAP
 
 ---
 
-### 🏥 Healthcare Prediction System
-- Stroke prediction model
-- Data analytics pipeline
-- ML classification
+### ✈ Horizon Travel Planner
+
+Full-stack AI travel planning platform featuring Gemini AI, trip management, maps, weather, budget tracking, and admin dashboard.
+
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Supabase • Gemini AI
 
 ---
 
-### 🤖 RAG Chatbot System
-- LLM-based assistant
-- Document retrieval system
-- Semantic search
+### 🍕 Slice Hub
+
+Full-stack MERN food ordering ecosystem with Customer, Seller, and Admin modules.
+
+**Tech:** React • Node.js • Express • MongoDB • JWT • Redux Toolkit
 
 ---
 
-### 🎓 Student Success Analytics Platform
-- Dropout prediction system
-- Machine Learning + Analytics
-- MERN + Python integration
+### 🚖 Taxi Fare Intelligence
+
+Machine learning dashboard for predicting and explaining taxi and tuk-tuk fares in Colombo.
+
+**Tech:** Python • FastAPI • XGBoost • React • Pandas
 
 ---
 
-### 💳 Fraud Detection System
-- XGBoost ML model
-- FastAPI backend
-- Real-time prediction
+### 🩺 MediCare Assist
+
+AI-powered disease prediction system for Diabetes, Stroke, and Heart Disease.
+
+**Tech:** Python • Scikit-learn • React • Node.js • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+### 🎬 MovieMind AI
+
+Content-based movie recommendation system with interactive analytics dashboard.
+
+**Tech:** Python • Scikit-learn • Streamlit • Pandas
+
+---
+
+### 📊 Customer Segmentation Analytics
+
+Machine learning dashboard for customer clustering using purchasing behaviour.
+
+**Tech:** Python • Scikit-learn • Plotly • Streamlit
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -187,7 +195,7 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -195,30 +203,19 @@ I build real-world systems using **Software Engineering, Data Analytics, and Mac
 
 </div>
 
-## 🌐 Top Languages
+---
 
-<div align="center">
-  
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MalshaJayamanne&count=5)
-
-</div>
-
-
-## 📫 Connect With Me
+# 📫 Connect with Me
 
 <div align="center">
 
-<a href="https://github.com/MalshaJayamanne">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://malshajayamanne.dev)
 
-<a href="https://www.linkedin.com/in/malsha-jayamanne-957048302/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MalshaJayamanne)
 
-<a href="mailto:malshasulakshan4@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/malsha-jayamanne)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:malshasulakshan4@gmail.com)
 
 </div>
 
