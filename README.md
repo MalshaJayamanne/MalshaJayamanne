@@ -180,11 +180,11 @@ Machine learning dashboard for customer clustering using purchasing behaviour.
 # 📊 GitHub Statistics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalshaJayamanne&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MalshaJayamanne&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalshaJayamanne&layout=compact&theme=default"/>
-
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MalshaJayamanne&langs_count=5&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <br>
