@@ -54,7 +54,7 @@ I'm currently interested in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,nodejs,express,fastapi,flask,mongodb,mysql,postgres,supabase,prisma,tensorflow,git,github,postman,vscode,pycharm,figma,vercel&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,nodejs,express,fastapi,flask,mongodb,mysql,postgres,supabase,prisma,tensorflow,git,github,postman,vscode,pycharm,figma,vercel,azure,docker&perline=8" />
 
 </div>
 
