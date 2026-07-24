@@ -35,85 +35,164 @@ I'm currently interested in:
 
 ---
 
-# 🛠 Tech Stack
+# 🎯 Current Focus
+
+<div align="center">
+
+| Software Engineering | Machine Learning | Data Analytics |
+|----------------------|------------------|----------------|
+| Full Stack Development | Predictive Machine Learning | Exploratory Data Analysis |
+| REST API Development | Explainable AI (SHAP) | Data Visualization |
+| Scalable Web Applications | Deep Learning (CNN) | Decision Support Systems |
+| Database Design | Model Deployment | Dashboard Development |
+
+</div>
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,nodejs,express,fastapi,flask,mongodb,mysql,postgres,supabase,prisma,tensorflow,git,github,postman,vscode,pycharm,figma,vercel&perline=8" />
+
+</div>
+
+---
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+
 </p>
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwind-css"/>
+
+<img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite"/>
+
+<img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI/UX-111827?style=for-the-badge&logo=figma"/>
+
 </p>
 
 ---
 
-## ⚙ Backend
+## ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi"/>
+
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NextAuth-111827?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🗄 Databases
+## 🗄️ Databases & ORM
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase"/>
+
+<img src="https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma"/>
+
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 AI, Machine Learning & Data Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,python" />
-</p>
+<p align="center">
 
-**Libraries**
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow"/>
 
-- Scikit-learn
-- Pandas
-- NumPy
-- XGBoost
-- SHAP
-- Matplotlib
-- Plotly
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
 
----
+<img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge"/>
 
-## 📊 Data Analytics
+<img src="https://img.shields.io/badge/CNN-111827?style=for-the-badge"/>
 
-- Power BI
-- Excel
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
 
----
+<img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
 
-## ☁ Deployment & Tools
+<img src="https://img.shields.io/badge/SHAP-111827?style=for-the-badge"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
+<img src="https://img.shields.io/badge/LIME-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Data_Visualization-111827?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🏗 Software Engineering
+## 🛠️ Tools & Platforms
 
-- REST APIs
-- JWT Authentication
-- NextAuth
-- Prisma ORM
-- Mongoose ODM
-- Role-Based Access Control (RBAC)
-- MVC Architecture
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+
+<img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm"/>
+
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma"/>
+
+<img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render"/>
+
+</p>
 
 ---
 
